@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hear octano
+#   octano
 #
 # Author:
 #   Nico Q
